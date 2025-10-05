@@ -8,14 +8,15 @@
 ### 🛠️ مهارت‌ها و ابزارهای من (Tech Stack)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,html,css,sqldb,docker" alt="Python, Django, HTML, CSS, SQL, Docker" />
+    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,sqldb,docker" alt="Python, Django, HTML, CSS, JavaScript, SQL, Docker" />
 </p>
 
-| دسته بندی | تکنولوژی‌ها |
+| دسته بندی | مهارت‌های اصلی |
 | :--- | :--- |
-| <strong>Backend & Framework</strong> | <code>Python</code> | <code>Django</code> | <code>SQL</code> |
-| <strong>Frontend</strong> | <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code> (آشنایی) |
-| <strong>DevOps & DB</strong> | <code>Docker</code> | <code>SQL</code> | <code>PostgreSQL</code> / <code>MySQL</code> |
+| **Backend & Framework** | <code>Python</code>, <code>Django</code> |
+| **Frontend** | <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code> (آشنایی) |
+| **Database** | <code>SQL</code>, <code>PostgreSQL</code>, <code>MySQL</code> |
+| **DevOps** | <code>Docker</code> |
 
 ---
 
@@ -28,7 +29,7 @@
 - **امنیت وب:** عمیقاً در حال یادگیری مفاهیم **OWASP Top 10** و Best Practices امنیتی هستم.
 - **CTF:** به طور فعال در چالش‌های **Capture The Flag** شرکت می‌کنم تا دانش و تجربه عملی‌ام را تقویت کنم. 🔒
 
+---
 
-<div align="center">
-  <small>از بازدید شما متشکرم! - @sorenax</small>
-</div>
+
+### 📈 آمار گیت‌هاب
