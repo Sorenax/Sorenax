@@ -42,8 +42,3 @@
 * بررسی و تست نفوذ اپلیکیشن‌های وب (Website Security).
 * شرکت در چالش‌های **CTF**.
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sorenax&show_icons=true&theme=buefy&hide_border=true" />
-</div>
