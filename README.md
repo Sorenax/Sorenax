@@ -36,7 +36,7 @@
 
 * **Backend:** Python, Django, Django REST Framework
 * **Markup:** HTML5, CSS3
-* **Database:** MySQL, PostgreSQL, SQL
+* **Database:** MySQL, SQL
 * **DevOps & Setup:** Docker, Nginx, Gunicorn, Git, Linux (Ubuntu)
 
 ---
@@ -47,8 +47,4 @@
 * بررسی و تست نفوذ اپلیکیشن‌های وب (Website Security).
 * شرکت در چالش‌های **CTF**.
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sorenax&show_icons=true&theme=buefy&hide_border=true" />
-</div>
