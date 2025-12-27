@@ -1,34 +1,60 @@
 <div align="center">
-  <h1>👋 سلام! من ایلیا نجفی (sorenax) هستم.</h1>
-  <p>یک توسعه‌دهنده فول‌استک متمرکز بر 💻 <strong>Python/Django</strong>، که عاشق ساختن اپلیکیشن‌های قوی و <strong>ایمن</strong> است.</p>
+  <h1>👋 سلام! من ایلیا نجفی هستم</h1>
+  <p><strong>توسعه‌دهنده فول‌استک و پژوهشگر امنیت سایبری</strong></p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
 </div>
 
 ---
 
-### 🛠️ مهارت‌ها و ابزارهای من (Tech Stack)
+### 🚀 خلاصه حرفه‌ای
+من یک توسعه‌دهنده **Python/Django** با بیش از **۲ سال تجربه** تخصصی در دنیای وب هستم. تمرکز اصلی من بر ساخت معماری‌های مقیاس‌پذیر و ایمن است.
+* **۲ سال** تجربه کار با **Django**
+* **۱ سال** تجربه تخصصی در طراحی و توسعه **Django REST Framework (DRF)**
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,docker" alt="Python, Django, HTML, CSS, JavaScript, Docker" />
-</p>
+---
 
-| دسته بندی | مهارت‌های اصلی |
+### 💼 سوابق کاری و پروژه‌ها
+
+* **[Amiran Co](https://www.amiranco.net)** | توسعه‌دهنده بک‌انند و مسئول دیپلوی
+    * طراحی و پیاده‌سازی زیرساخت سمت سرور (Backend)
+    * مدیریت فرآیند Deployment و پیکربندی سرورها.
+* **[Unlim](https://unlim.ir)** | عضو تیم توسعه بک‌انند
+    * همکاری در تیم فنی برای توسعه و بهبود سرویس‌های پلتفرم.
+
+---
+
+### 🛠️ مهارت‌ها و ابزارها (Tech Stack)
+
+| دسته‌بندی | تکنولوژی‌ها |
 | :--- | :--- |
-| **Backend & Framework** | <code>Python</code>, <code>Django</code> |
-| **Frontend** | <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code> (آشنایی) |
-| **Database** | <code>SQL</code>, <code>MySQL</code> |
-| **DevOps** | <code>Docker</code> |
+| **Backend** | `Python`, `Django`, `Django REST Framework (DRF)` |
+| **Database** | `SQL`, `MySQL`, `PostgreSQL` |
+| **Frontend** | `HTML5`, `CSS3`, `JavaScript` |
+| **DevOps & Tools** | `Docker`, `Git`, `Linux (Ubuntu)`, `Nginx` |
 
 ---
 
-### 🧠 در مسیر امنیت سایبری
+### 🧠 امنیت سایبری (Cybersecurity)
+علاوه بر توسعه، امنیت برای من یک اولویت است. من در حال عمیق‌تر شدن در مباحث زیر هستم:
+- 🛡️ **Web Security:** تحلیل آسیب‌پذیری‌های وب و ایمن‌سازی اپلیکیشن‌ها.
+- ⚙️ **Reverse Engineering & Pwn:** در حال یادگیری مهندسی معکوس و اکسپلویت نویسی.
+- 🚩 **CTF Player:** شرکت در مسابقات فتح پرچم برای ارتقای مهارت عملی.
 
-<p>
-  من همیشه در حال یادگیری هستم تا مهارت‌هایم را گسترش دهم. در حال حاضر، تمرکز اصلی من بر <strong>امنیت وب</strong> و تمرین در زمینه‌های زیر است:
+---
+
+### 📱 راه‌های ارتباطی
+<p align="left">
+<a href="https://github.com/sorenax">
+  <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,telegram" />
+</a>
 </p>
 
-- **امنیت وب:** عمیقاً در حال یادگیری مفاهیم **reverse engineering** و **pwn** و  **website security** امنیتی هستم.
-- **CTF:** به طور فعال در چالش‌های **Capture The Flag** شرکت می‌کنم تا دانش و تجربه عملی‌ام را تقویت کنم. 🔒
-
----
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sorenax&show_icons=true&theme=radical" alt="sorenax's github stats" />
+</div>
