@@ -21,9 +21,14 @@
 
 * **توسعه‌دهنده بک‌انند و مسئول سرور** | [Amiran Co](https://www.amiranco.net)
     * توسعه بخش بک‌انند با Django.
-    * مدیریت و Setup کامل سرور (Nginx, Gunicorn) و دیپلوی پروژه‌ها.
+    * مدیریت و Setup کامل سرور (Nginx, Gunicorn) و دیپلوی پروژه‌ها روی داکر.
 * **توسعه‌دهنده بک‌انند** | [Unlim](https://unlim.ir)
     * همکاری در تیم بک‌انند برای توسعه ویژگی‌های جدید و کار روی دیتابیس.
+
+---
+
+### 🧪 پروژه‌های تمرینی
+* **[Talasea Clone](https://github.com/Sorenax/talasea):** بازنویسی و پیاده‌سازی کدهای این وب‌سایت جهت تمرین و تسلط بیشتر بر ساختارهای جنگو.
 
 ---
 
@@ -42,3 +47,8 @@
 * بررسی و تست نفوذ اپلیکیشن‌های وب (Website Security).
 * شرکت در چالش‌های **CTF**.
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sorenax&show_icons=true&theme=buefy&hide_border=true" />
+</div>
