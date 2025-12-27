@@ -15,7 +15,7 @@
 | :--- | :--- |
 | **Backend & Framework** | <code>Python</code>, <code>Django</code> |
 | **Frontend** | <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code> (آشنایی) |
-| **Database** | <code>SQL</code>, <code>PostgreSQL</code>, <code>MySQL</code> |
+| **Database** | <code>SQL</code>, <code>MySQL</code> |
 | **DevOps** | <code>Docker</code> |
 
 ---
