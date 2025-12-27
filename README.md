@@ -8,7 +8,7 @@
 ### 🛠️ مهارت‌ها و ابزارهای من (Tech Stack)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,sqldb,docker" alt="Python, Django, HTML, CSS, JavaScript, SQL, Docker" />
+    <img src="https://skillicons.dev/icons?i=py,django,html,css,js,docker" alt="Python, Django, HTML, CSS, JavaScript, Docker" />
 </p>
 
 | دسته بندی | مهارت‌های اصلی |
